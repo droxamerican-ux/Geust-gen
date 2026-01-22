@@ -1,8 +1,3 @@
-# THIS SCRIPT CREATE BY | DVL JOBAYAR ‼️
-# TELEGRAM USERNAME | @DEVIL_X120 👿
-# DONT CHANGE CREDIT IF YOU CHANGE THIS, YOU WILL BE A GAY Clap🖕🏻👏🏿
-# ENJOY EVERYONE DONT FORGET ME | DVL JOBAYAR 
-
 import hmac
 import hashlib
 import requests
@@ -104,13 +99,13 @@ def generate_random_name():
     random_suffix = ''.join(random.choice(special_chars) for _ in range(3))
     
     # নাম তৈরি করুন
-    name = f"ZR{random_suffix}"
+    name = f"drox{random_suffix}"
     return name
 
 def generate_custom_password(random_length=9):
     characters = string.ascii_letters + string.digits
     random_part = ''.join(random.choice(characters) for _ in range(random_length)).upper()
-    return f"JOBAYAR_CODX-{random_part}"
+    return f"DROX-{random_part}"
 
 
 
@@ -501,7 +496,7 @@ def GET_LOGIN_DATA(JWT_TOKEN, PAYLOAD, region):
 
 
 
-#os.system('title GUEST GENERATOR v1 By RedZed ^| @mohp4')
+#غير اسم البانل او اي اسم في الكود من zobayra الى drox
 
 print(f"""\n\n\n{Fore.RED+bold}╔═════════════════════════════════════════════════════════════════╗
 ║                                                                 ║
@@ -512,7 +507,7 @@ print(f"""\n\n\n{Fore.RED+bold}╔═══════════════�
 ║   ███████╗╚██████╔╝██████╔╝██║  ██║   ██║   ██║  ██║██║  ██║    ║
 ║   ╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝    ║
 ║                                             [] CODEX 1 1.4     ║
-╚═════════════════════════════════════════════════════════════════╝  \n                                           {Fore.RED}@{Fore.RESET}JOBAYAR_AHMED\n""")
+╚═════════════════════════════════════════════════════════════════╝  \n                                           {Fore.RED}@{Fore.RESET}droxff\n""")
 
 
 
